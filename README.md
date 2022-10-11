@@ -1,4 +1,4 @@
-# G613 Keyboard Fix
+# G613 Double Key Typing Keyboard Issue Fix
 
 ## What does this script do?
 It's a workaround for broken G613 Logitech keyboards (possibly other keyboards too) whereby some keys occasionally register multiple keystrokes for one kkkkkeypress.
